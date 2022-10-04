@@ -48,3 +48,9 @@
 <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"  height="25px"/>
 <img alt="Powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"  height="25px"/>
 </p>
+
+
+### 📊 Stats
+![Myburgh Roux Stats](https://github-readme-stats.vercel.app/api?username=MyburghRoux&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
