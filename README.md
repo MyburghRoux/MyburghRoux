@@ -1,4 +1,11 @@
-# Weclome to my Github Profile :wave:
+<h1 align="left">Hello I'm Myburgh Roux</h1>
+
+
+# :wave: Weclome to my Github Profile :wave:
+## :notebook: BSc IT student specializing in Software Engineering :notebook:
+
+##  :zap: Who am I? :zap:
+### I am Carel Myburgh Roux, people call me Myburgh. I was born on 22 April 2001 in Cape-Town South-Africa. I have a passion for problem solving and love cars and photography and everything tech related.
 
 
 <!--
