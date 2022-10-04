@@ -1,24 +1,28 @@
-<h1 align="left">Hello I'm Myburgh Roux</h1>
+<h1 align="center">Hello I'm Myburgh Roux</h1>
 
+<div align="center">
+  <img src ="./banner.png" />  
+</div>
+<br/>
 
-# :wave: Weclome to my Github Profile :wave:
-## :notebook: BSc IT student specializing in Software Engineering :notebook:
+## 👨🏻‍💻 About Me:
 
-##  :zap: Who am I? :zap:
-### I am Carel Myburgh Roux, people call me Myburgh. I was born on 22 April 2001 in Cape-Town South-Africa. I have a passion for problem solving and love cars and photography and everything tech related.
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
+- 🙋‍♂️ All about me is at **[My Website](https://www.myburghroux.tech)**
 
-<!--
-**MyburghRoux/MyburghRoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on `Something Intresting`.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning `Java`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate for `Nothing`
+
+- 🤔 I’m looking for help with `Nothing`
+
+- 💬 Ask me about anything :smile:
+
+- 👨‍💻 Life Hack: Take A Break To Solve A Problem 🌬️
+
+- ⚡ Fun fact: I play a lot of car games, people would say I'm addicted 😅
+
+## 🛠️ Technologies and Tools I use:
