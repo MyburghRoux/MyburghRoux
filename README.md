@@ -11,7 +11,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://www.myburghroux.tech)**
 
-- 🔭 I’m currently working on `My UNI Projects`.
+- 🔭 I’m currently working on `My Work Projects`.
 
 - 🌱 I’m currently learning `Java`
 
