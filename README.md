@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myburgh Roux</h1>
 <h3 align="center">Junior Java Developer | Builder | Car Enthusiast</h3>
-
 <div align="center">
   <img src="./banner.png" alt="banner" />
 </div>
@@ -15,7 +14,7 @@
 - 🌱 Learning **Java** (backend + performance focus)
 - 💡 Always building, improving, optimizing
 - 💬 Ask me about **code, cars, or tech**
-- ⚡ Fun fact: I’m deep into car games 🚗
+- ⚡ Fun fact: I'm deep into car games 🚗
 
 > 🧠 *Life Hack:* Step away — solutions come faster.
 
@@ -31,20 +30,28 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### 🐳 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ### 🧰 Dev & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 🖥️ Other Tools
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📊 Microsoft Stack
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -55,13 +62,13 @@
 ---
 
 ## 🚀 Current Focus
-
 - Building **real-world, scalable systems**
 - Improving **backend + database performance**
+- Working with **Spring Boot**, **Oracle DB**, and **cloud-native deployments** on OCI
+- Container orchestration with **Docker** and **Kubernetes**
 - Growing into a **high-level software engineer**
 
 ---
 
 ## ⚡ Motto
-
 > **Built for Purpose. Clean. Efficient. Relentless.**
