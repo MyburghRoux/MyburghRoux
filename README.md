@@ -12,7 +12,7 @@
 <img src="./thoughtworks-gif_dribbble.gif" height="260px" align="right" />
 
 - 🔭 Currently working on **real-world development projects**
-- 🌱 Learning **Java** (focused on backend + performance)
+- 🌱 Learning **Java** (backend + performance focus)
 - 💡 Always building, improving, optimizing
 - 💬 Ask me about **code, cars, or tech**
 - ⚡ Fun fact: I’m deep into car games 🚗
@@ -51,14 +51,6 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyburghRoux&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
