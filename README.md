@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myburgh Roux</h1>
-<h3 align="center">Graduate Developer | Builder | Car Enthusiast</h3>
+<h3 align="center">Junior Java Developer | Builder | Car Enthusiast</h3>
 
 <div align="center">
   <img src="./banner.png" alt="banner" />
